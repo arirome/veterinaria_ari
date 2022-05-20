@@ -1,0 +1,12 @@
+.container.testimonios {
+  width: 100%;
+  padding: 0px;
+}
+
+.formulario__grupo-input {
+  border: 3px solid cyan;
+}
+
+.formulario__grupo-input-incorrecto {
+  border: 3px solid tomato;
+}
